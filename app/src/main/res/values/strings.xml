@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">StoreViewer</string>
+
+  <string name="results_error">Results could not be loaded</string>
+  <string name="no_results_found">No results found for current location</string>
+  <string name="location_error">Error. You need to allow for location to load stores</string>
+  <string name="retry">Retry</string>
+</resources>
